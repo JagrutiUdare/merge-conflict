@@ -15,6 +15,10 @@ feature1()
  Adding security patch from feature1
 }
 
+feaature2()
+{
+ Adding security patch from feature2
+}
 
 
 }
